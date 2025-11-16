@@ -6,7 +6,8 @@ This repository contains a complete n8n workflow designed to automate the proces
 ---
 
 ## 📸 Demo Snapshot
-<img width="850" alt="Placements Eligibility Snapshot" src="https://github.com/user-attachments/assets/0a4d9b39-395d-4d30-819c-9a9d960195da" />
+![Uploading Placements Eligibility Snapshot.png…]()
+
 
 
 ---
@@ -60,6 +61,7 @@ This repository contains a complete n8n workflow designed to automate the proces
 
 
 ---
+
 
 
 
